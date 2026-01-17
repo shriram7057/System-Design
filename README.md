@@ -1,3 +1,7 @@
+<div align="center">
+
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Sys%20Des%20Logo.gif?raw=true" width="400" />
+
 <h1>🚀 FAANG-Level System Design in Java</h1>
 
 <p>
